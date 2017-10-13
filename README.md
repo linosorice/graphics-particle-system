@@ -5,4 +5,4 @@ There 3 types of Particle System:
 * Attractor [Youtube](https://www.youtube.com/watch?v=V8AAOULL-Lw)
 * Fireworks Video will be available soon
 
-To switch the type of particol system you have to go to particle_system.h and change the line 15.
+To switch the type of particol system you have to change [here](https://github.com/linosorice/graphics-particle-system/blob/master/particle_system.h#L15)
